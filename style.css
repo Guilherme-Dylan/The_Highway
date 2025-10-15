@@ -1,0 +1,220 @@
+@charset "UTF-8";
+
+*{
+margin: 0;
+padding: auto;
+}
+
+body{
+background-color: black;
+}
+
+.esquerda{
+background-color: rgb(0, 0, 0);
+width: 60%;
+height: 80px;
+float: left;
+
+}
+
+.texesq{
+margin-left: 20%;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+margin-top: 20px ;
+color: white;
+}
+
+.direita{
+background-color: rgb(0, 0, 0);
+width: 40%;
+float: right;
+height: 80px;
+
+}
+
+.texdir{
+color: white;
+margin-top: 20px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+text-decoration: none;
+}
+.mid{
+background-image: url(teste.jpg);
+width: 600px;
+height: 500px;
+float: right;
+margin-right: 50px;
+background-repeat: repeat;
+background-position: center;
+background-size: cover;
+}
+
+.becmd{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 500px;
+float: left;
+}
+
+.texmid{
+color: white;
+margin-left: 20%;
+margin-top: 30%;
+font-family: "Poiret One", sans-serif;
+font-size: 40px;
+}
+
+.faixa{
+background-color: rgb(15, 15, 15);
+width: 100%;
+height: 80px;
+float: right;
+}
+
+.texfaixa{
+color: gray;
+font-family: "Poiret One", sans-serif;
+text-align: center;
+word-spacing: 40px;
+margin-top: 25px;
+}
+
+.texx{
+background-image: url(cinza.jpg);
+width: 600px;
+height: 400px;
+float: left;
+}
+
+.texbai{
+color: white;
+margin-left: 29%;
+margin-top: 180px;
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.texxes{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: right;
+}
+
+.tites{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin-top: 40px;
+}
+
+.texmim{
+color: rgb(161, 161, 161);
+font-family: "Poiret One", sans-serif;
+margin-top: 80px;
+justify-content: center;
+font-size: 20px;
+}
+
+.lowtex{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+height: 30px;
+float: right;
+
+}
+
+.texlow{
+text-align: center;
+color: white;
+font-family: "Poiret One", sans-serif;
+font-size: 30px;
+}
+
+.proj{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: left;
+}
+
+.titproj{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 20%;
+margin-top: 40px;
+}
+
+.texproj{
+justify-content: center;
+margin-top: 50px;
+font-size: 20px;
+margin-left: 20%;
+color: rgb(161, 161, 161);
+font-family: "Poiret One", sans-serif;
+}
+
+.projfix{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: right;
+}
+
+
+.proj2{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: right;
+}
+
+.titproj2{
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 40px;
+}
+
+.texproj2{
+justify-content: center;
+margin-top: 50px;
+font-size: 20px;
+color: rgb(161, 161, 161);
+font-family: "Poiret One", sans-serif;
+}
+
+.projfix2{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: left;
+}
+
+
+.proj3{
+background-color: rgb(0, 0, 0);
+width: 600px;
+height: 400px;
+float: left;
+}
+
+.titproj3{
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 40px;
+margin-left: 20%;
+}
+
+.texproj3{
+justify-content: center;
+margin-top: 50px;
+font-size: 20px;
+margin-left: 20%;
+color: rgb(161, 161, 161);
+font-family: "Poiret One", sans-serif;
+}
